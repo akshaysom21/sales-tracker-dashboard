@@ -13,16 +13,16 @@
 ![Overview](screenshots/KPIs.PNG)
 
 ### Product Performance
-![Products](screenshots/products.png)
+![Products](screenshots/products.PNG)
 
 ### Customer Analytics
-![Customers](screenshots/customers.png)
+![Customers](screenshots/customers.PNG)
 
 ### Sales Channel Analysis
-![Channels](screenshots/channels.png)
+![Channels](screenshots/channels.PNG)
 
 ### Time Patterns
-![Patterns](screenshots/patterns.png)
+![Patterns](screenshots/patterns.PNG)
 
 ### 30-Day Forecast
 ![Forecast](screenshots/forecast.png)
