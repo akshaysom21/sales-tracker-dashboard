@@ -3,14 +3,14 @@
 > Real-time sales analytics dashboard built with Python and Streamlit
 
 ## 🔗 Live Demo
-### **[👉 View Live Dashboard Here](https://your-url.streamlit.app)**
+### **[👉 View Live Dashboard Here](https://akshaysom21-sales-tracker-dashboard-app.streamlit.app/)**
 
 ---
 
 ## 📸 Dashboard Preview
 
 ### Overview - KPI Tracking
-![Overview](screenshots/overview.png)
+![Overview](screenshots/dashboard.png)(screenshots/KPIs.png)
 
 ### Product Performance
 ![Products](screenshots/products.png)
@@ -60,6 +60,7 @@
 
 # Clone the repository
 git clone https://github.com/akshaysom21/sales-tracker-dashboard.git
+
 cd sales-tracker-dashboard
 
 # Create virtual environment
@@ -115,6 +116,6 @@ sales_tracker_dashboard/
 ## 📬 Contact
 
 **Akshay Som**
-- 🔗 LinkedIn: linkedin.com/in/yourprofile
-- 💻 GitHub: github.com/akshaysom21
-- 📧 Email: your@email.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/akshaysom21/
+- 💻 GitHub: https://github.com/akshaysom21
+- 📧 Email: akshaysom21@gmail.com
