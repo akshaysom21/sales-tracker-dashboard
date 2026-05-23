@@ -10,7 +10,7 @@
 ## 📸 Dashboard Preview
 
 ### Overview - KPI Tracking
-![Overview](screenshots/dashboard.png)(screenshots/KPIs.png)
+![Overview](screenshots/KPIs.PNG)
 
 ### Product Performance
 ![Products](screenshots/products.png)
