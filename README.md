@@ -98,17 +98,29 @@ http://localhost:8501
 ## 📁 Project Structure
 
 sales_tracker_dashboard/
+|
 ├── app.py                 # Main dashboard application
+|
 ├── data_generator.py      # Sample data generation
+|
 ├── data_processor.py      # Data cleaning pipeline
+|
 ├── kpi_calculator.py      # Business metrics engine
+|
 ├── forecasting.py         # ML forecasting module
+|
 ├── email_report.py        # Automated email reports
+|
 ├── config.py              # Central configuration
+|
 ├── requirements.txt       # Dependencies
+|
 ├── .streamlit/
+    |
 │   └── config.toml        # Streamlit theme settings
+|
 └── data/
+    |
     ├── raw/               # Raw data files
     └── processed/         # Cleaned data files
 
