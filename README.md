@@ -25,7 +25,8 @@
 ![Patterns](screenshots/patterns.PNG)
 
 ### 30-Day Forecast
-![Forecast](screenshots/forecast.png)
+![Forecast](screenshots/forecast1.PNG)
+![Forecast](screenshots/forecast2.PNG)
 
 ---
 
