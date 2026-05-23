@@ -1,0 +1,41 @@
+# Virtual environment - never push this
+venv/
+env/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.Python
+
+# Data files - optional, comment out if you want to include sample data
+# data/raw/
+# data/processed/
+
+# Generated reports
+reports/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

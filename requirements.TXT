@@ -1,0 +1,11 @@
+# requirements.txt
+pandas
+numpy
+plotly
+streamlit
+openpyxl
+faker
+scikit-learn
+prophet
+python-dotenv
+Pillow
